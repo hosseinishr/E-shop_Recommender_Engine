@@ -2,7 +2,7 @@
 
 # Solution strategy framework for the data science problem
 
-<img src="images/4Dframework.png" width="70%">
+<img src="images/4Dframework.png" width="85%">
 
 # 1- Define the problem and goal
 ## The problem
