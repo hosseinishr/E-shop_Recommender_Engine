@@ -60,7 +60,7 @@ This is performed based on the available dataframe. The test dataframe includes:
 * 2 samples of customers that have bought 2 items, 
 * 2 samples of customers that have bought 3 items.
 
-<img src="images/c17.png" width="50%">
+<img src="images/c17.png" width="55%">
 
 The items listed for every customer_ID in the df_test_items are taken from the most granular level, i.e. L3, of the df_test. For example, the customer_ID 66783 has purchased 3 items as follows:
 * Vacuum Cleaner Accessory Kits
