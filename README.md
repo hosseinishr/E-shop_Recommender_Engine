@@ -143,7 +143,7 @@ Once a set of new customers, in this case the test set, is fed to the engine, it
 This has been illustrated in the next section using the test dataset.
 
 
-# 4- Deploy the the recommender engine
+# 4- Deploy the recommender engine
 
 ## Step 4.1: Creaitng the list of customers
 This list is created using the test dataset prepared in Section 2 (Discover the data).
