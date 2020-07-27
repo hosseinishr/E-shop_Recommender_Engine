@@ -116,7 +116,7 @@ This is a list of all the items purchased by the customers that are present in b
 The developed recommender engine calculates the similarity based on the **'Jaccard similarity'**, which is illustrated as below:
 
 <div style="text-align:center">
-<img src="images/jaccard_similarity.png" width="40%">
+   <img src="images/jaccard_similarity.png" width="40%">
 </div>
 In the above definition:
 * A: represents the customers that have purchased item A.
