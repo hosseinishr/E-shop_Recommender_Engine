@@ -16,7 +16,7 @@ The e-shop needs a recommender engine to suggest to the customers, the items tha
 The provided data are the purchase history of multitude of customers from the e-shop during 2 weeks.
 
 ## Step 2.2: Examining and high level overviewieng the data
-<img src="images/c5.png" width="85%">
+<img src="images/c5.png" width="70%">
 
 The dataframe has 6 columns as follows:
 * **customer_ID:** Every customer, has a unique ID, however, might have bought more than one item from the e-shop. Hence, there are repetitions in the customer_ID column.
@@ -26,7 +26,7 @@ The dataframe has 6 columns as follows:
 * **sku:** Product ID (encoded)
 * **brand:** Product brand (encoded)
 
-<img src="images/c6.png" width="70%">
+<img src="images/c6.png" width="60%">
 
 Examining a sample customer shows that they have bought 3 items from the e-shop. Hence, the elements in the customer_ID column are not all unique numbers.
 
@@ -60,7 +60,7 @@ This is performed based on the available dataframe. The test dataframe includes:
 * 2 samples of customers that have bought 2 items, 
 * 2 samples of customers that have bought 3 items.
 
-<img src="images/c17.png" width="70%">
+<img src="images/c17.png" width="60%">
 
 The items listed for every customer_ID in the df_test_items are taken from the most granular level, i.e. L3, of the df_test. For example, the customer_ID 66783 has purchased 3 items as follows:
 * Vacuum Cleaner Accessory Kits
@@ -156,7 +156,7 @@ This list is created using the test dataset prepared in Section 2 (Discover the 
 
 ## Step 4.5: Evaluating the performance of the recommender engine 
 
-<img src="images/c42.png" width="70%">
+<img src="images/c42.png" width="60%">
 
 <img src="images/c43.png" width="85%">
 
