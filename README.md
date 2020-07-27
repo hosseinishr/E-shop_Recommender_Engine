@@ -96,7 +96,7 @@ A high level overview of the training set and test set is performed to ensure co
 
 <img src="images/c28.png" width="85%">
 
-<img src="images/c29.png" width="30%">
+<img src="images/c29.png" width="40%">
 
 The training set consists of 7,453 unique customers that have purchased at least min_order_size_train (20 in this case) items.
 
